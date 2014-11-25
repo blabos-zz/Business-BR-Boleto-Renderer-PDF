@@ -1,4 +1,4 @@
-requires 'Business::BR::Boleto::Utils' => '0.000001';
+requires 'Business::BR::Boleto::Utils' => '0.001000';
 requires 'Const::Fast'                 => '0.014';
 requires 'Cwd'                         => '3.47';
 requires 'Digest::SHA'                 => '5.92';
